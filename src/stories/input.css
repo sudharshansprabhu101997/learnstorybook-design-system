@@ -1,0 +1,29 @@
+.input {
+  border: 1px solid transparent;
+  padding: 15px 20px;
+  color: black;
+  background: white;
+}
+
+.input-md {
+  font-size: 1rem;
+  height: 2rem;
+}
+
+.input-xs {
+  font-size: 0.5rem;
+  height: 1rem;
+}
+
+.input-sm {
+  font-size: 0.75rem;
+  height: 1.5rem;
+}
+.input-lg {
+  font-size: 1.25rem;
+  height: 2.5rem;
+}
+.input-xl {
+  font-size: 1.5rem;
+  height: 3rem;
+}
